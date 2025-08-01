@@ -17,17 +17,17 @@ You can find our work at:
 
 [osmanbeyoglulab.com/publications](https://www.osmanbeyoglulab.com/publications)
 
----
+
 
 ## 🌐 **Website**: [Osmanbeyoglulab](https://osmanbeyoglulab.com)  
 
 
----
+
 
 ## 🤝 Collaborate with Us
 Feel free to open an [issue](https://github.com/your-org/welcome/issues) or reach out!
 
----
+
 
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=your-org.welcome" alt="visitor badge"/>
