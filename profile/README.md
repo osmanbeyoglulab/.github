@@ -22,7 +22,7 @@ To support these efforts, we build robust computational tools and frameworks, pr
 
 
 
-### 🤝 [Collaborate with Us]((mailto:osmanbeyogluhu@pitt.edu)
+### 🤝 [Collaborate with Us](mailto:osmanbeyogluhu@pitt.edu)
 Feel free to open an [issue](https://github.com/your-org/welcome/issues) or reach out!
 
 
