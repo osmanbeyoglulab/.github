@@ -11,9 +11,9 @@ To support these efforts, we build robust computational tools and frameworks, pr
 
 ---
 
-## 📄 Publications & Preprints
+## 📄 [Publications & Preprints](https://www.osmanbeyoglulab.com/publications)
 
-[osmanbeyoglulab.com/publications](https://www.osmanbeyoglulab.com/publications)
+
 
 
 
