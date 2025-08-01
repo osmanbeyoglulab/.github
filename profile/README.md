@@ -13,8 +13,6 @@ To support these efforts, we build robust computational tools and frameworks, pr
 
 ## 📄 Publications & Preprints
 
-You can find our work at:
-
 [osmanbeyoglulab.com/publications](https://www.osmanbeyoglulab.com/publications)
 
 
