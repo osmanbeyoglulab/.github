@@ -12,17 +12,6 @@ To support these efforts, we build robust computational tools and frameworks, pr
 
 ---
 
-
-## 🚀 Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [🔗 PySpace](https://github.com/your-org/pyspace) | Python toolkit for analyzing 10x Visium spatial data |
-| [🔗 SpatialNet](https://github.com/your-org/spatialnet) | Deep learning model for cell-type deconvolution |
-| [🔗 HPC-Pipeline](https://github.com/your-org/hpc-pipeline) | Reproducible pipeline for processing large omics datasets |
-
----
-
 ## 📄 Publications & Preprints
 
 You can find our work at:
