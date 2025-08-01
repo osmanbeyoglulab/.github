@@ -13,18 +13,18 @@ To support these efforts, we build robust computational tools and frameworks, pr
 
 
 
-### 📄 [Publications & Preprints](https://www.osmanbeyoglulab.com/publications)
+#### 📄 [Publications & Preprints](https://www.osmanbeyoglulab.com/publications)
 
 
 
 
 
-### 🌐 [Website:Osmanbeyoglulab](https://osmanbeyoglulab.com)  
+#### 🌐 [Website:Osmanbeyoglulab](https://osmanbeyoglulab.com)  
 
 
 
 
-### 🤝 [Collaborate with Us](mailto:osmanbeyogluhu@pitt.edu)
+#### 🤝 [Collaborate with Us](mailto:osmanbeyogluhu@pitt.edu)
 
 
 
