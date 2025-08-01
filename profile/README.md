@@ -3,7 +3,7 @@
 <p align="center">
   Computational Biology • AI & Machine Learning • Multi-Omics Integration • Precision Medicine
 </p>
-<hr style="border: 0; border-top: 1px solid #ccc; margin: 10px 0;">
+<hr style="border: 0; border-top: 0.5px solid #ccc; margin: 10px 0;">
 
 
 We are a computational biology research group at the University of Pittsburgh dedicated to developing and applying AI- and data-driven approaches to better understand complex biological systems and human disease.<br><br>
