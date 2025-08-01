@@ -1,8 +1,4 @@
-# 👋 Welcome to the Osmanbeyoglu Lab
 
-We are a computational biology research group at the University of Pittsburgh dedicated to developing and applying AI- and data-driven approaches to better understand complex biological systems and human disease.<br><br>
-Our research aims to uncover mechanistic and predictive insights into disease processes—particularly in cancer and complex conditions such as end-stage liver disease—by integrating multi-modal omics data with advanced machine learning and statistical modeling. Ultimately, we seek to translate this knowledge into actionable strategies for precision medicine and therapeutic development.<br><br>
-To support these efforts, we build robust computational tools and frameworks, primarily using R and Python, and work in close collaboration with experimental and clinical researchers.<br><br>
 
 📄 **Publications**: [osmanbeyoglulab.com/publications](https://www.osmanbeyoglulab.com/publications)
 
@@ -14,7 +10,11 @@ To support these efforts, we build robust computational tools and frameworks, pr
   <img src="https://your-org-logo-url.png" height="100" alt="Lab Logo">
 </p>
 
-<h1 align="center">Welcome to the XYZ Lab 👋</h1>
+<h1 align="center"># 👋 Welcome to the Osmanbeyoglu Lab</h1>
+
+We are a computational biology research group at the University of Pittsburgh dedicated to developing and applying AI- and data-driven approaches to better understand complex biological systems and human disease.<br><br>
+Our research aims to uncover mechanistic and predictive insights into disease processes—particularly in cancer and complex conditions such as end-stage liver disease—by integrating multi-modal omics data with advanced machine learning and statistical modeling. Ultimately, we seek to translate this knowledge into actionable strategies for precision medicine and therapeutic development.<br><br>
+To support these efforts, we build robust computational tools and frameworks, primarily using R and Python, and work in close collaboration with experimental and clinical researchers.<br><br>
 
 <p align="center">
   Advancing spatial transcriptomics, computational biology, and machine learning.  
