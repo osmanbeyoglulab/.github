@@ -6,7 +6,7 @@ Our research aims to uncover mechanistic and predictive insights into disease pr
 To support these efforts, we build robust computational tools and frameworks, primarily using R and Python, and work in close collaboration with experimental and clinical researchers.<br><br>
 
 <p align="center">
-  computational biology • computational biology • Multi-Omics Integration • Precision Medicine
+  Computational Biology • AI & Machine Learning • Multi-Omics Integration • Precision Medicine
 </p>
 
 ---
