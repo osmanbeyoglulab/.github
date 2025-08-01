@@ -7,6 +7,6 @@ To support these efforts, we build robust computational tools and frameworks, pr
 - [Project A](https://github.com/xyz/project-a)
 - [Project B](https://github.com/xyz/project-b)
 
-📄 **Publications**: [xyzlab.org/publications](https://xyzlab.org/publications)
+📄 **Publications**: [osmanbeyoglulab.com/publications](https://www.osmanbeyoglulab.com/publications)
 
 📫 Contact: xyzlab@university.edu
