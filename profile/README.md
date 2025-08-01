@@ -23,10 +23,8 @@ To support these efforts, we build robust computational tools and frameworks, pr
 
 
 ### 🤝 [Collaborate with Us](mailto:osmanbeyogluhu@pitt.edu)
-Feel free to open an [issue](https://github.com/your-org/welcome/issues) or reach out!
 
 
 
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=your-org.welcome" alt="visitor badge"/>
-</p>
+
+
