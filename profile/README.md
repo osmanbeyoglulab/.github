@@ -1,4 +1,3 @@
-]
 
 <h1 align="center"> 👋 Welcome to Osmanbeyoglu Lab</h1>
 
