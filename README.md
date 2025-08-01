@@ -1,6 +1,6 @@
 
 
-📄 **Publications**: [osmanbeyoglulab.com/publications](https://www.osmanbeyoglulab.com/publications)
+📄 **Publications**: 
 
 
 🔬 **Projects**:
@@ -22,15 +22,6 @@ To support these efforts, we build robust computational tools and frameworks, pr
 
 ---
 
-## 🔬 About Us
-
-We are a multidisciplinary research group focused on combining **data science**, **bioinformatics**, and **high-performance computing (HPC)** to explore complex biological systems.
-
-Our work involves:
-- 🧠 **Machine learning** for spatial omics and single-cell data
-- 🧬 **Transcriptomics** and multi-modal data integration
-- 🧪 **Open-source tool development** for reproducible science
-
 ---
 
 ## 🚀 Featured Projects
@@ -45,11 +36,9 @@ Our work involves:
 
 ## 📄 Publications & Preprints
 
-You can find our recent work on:
+You can find our work at:
 
-- [PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=yourlab)
-- [bioRxiv](https://www.biorxiv.org/search/yourlab)
-- [Google Scholar](https://scholar.google.com/citations?user=xxxx)
+[osmanbeyoglulab.com/publications](https://www.osmanbeyoglulab.com/publications)
 
 📚 **Highlighted**:
 - Smith et al. (2024). *Deep learning for spatial transcriptomics.* Nature Methods.
