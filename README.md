@@ -7,3 +7,4 @@ To support these efforts, we build robust computational tools and frameworks, pr
 📄 **Publications**: [osmanbeyoglulab.com/publications](https://www.osmanbeyoglulab.com/publications)
 
 
+🔬 **Projects**:
