@@ -11,18 +11,18 @@ To support these efforts, we build robust computational tools and frameworks, pr
 
 ---
 
-## 📄 [Publications & Preprints](https://www.osmanbeyoglulab.com/publications)
+### 📄 [Publications & Preprints](https://www.osmanbeyoglulab.com/publications)
 
 
 
 
 
-## 🌐 **Website**: [Osmanbeyoglulab](https://osmanbeyoglulab.com)  
+### 🌐 [Website:Osmanbeyoglulab](https://osmanbeyoglulab.com)  
 
 
 
 
-## 🤝 Collaborate with Us
+### 🤝 Collaborate with Us
 Feel free to open an [issue](https://github.com/your-org/welcome/issues) or reach out!
 
 
