@@ -1,11 +1,5 @@
 
 
-📄 **Publications**: 
-
-
-🔬 **Projects**:
-
-
 <p align="center">
   <img src="https://your-org-logo-url.png" height="100" alt="Lab Logo">
 </p>
