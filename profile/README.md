@@ -1,8 +1,4 @@
-
-
-<p align="center">
-  <img src="https://your-org-logo-url.png" height="100" alt="Lab Logo">
-</p>
+]
 
 <h1 align="center"> 👋 Welcome to Osmanbeyoglu Lab</h1>
 
@@ -16,7 +12,6 @@ To support these efforts, we build robust computational tools and frameworks, pr
 
 ---
 
----
 
 ## 🚀 Featured Projects
 
@@ -34,34 +29,12 @@ You can find our work at:
 
 [osmanbeyoglulab.com/publications](https://www.osmanbeyoglulab.com/publications)
 
-📚 **Highlighted**:
-- Smith et al. (2024). *Deep learning for spatial transcriptomics.* Nature Methods.
-- Zhang & Chen et al. (2023). *Graph-based integration of single-cell data.* Bioinformatics.
+## 🌐 **Website**: [Osmanbeyoglulab](https://osmanbeyoglulab.com)  
 
----
-
-## 👥 Our Team
-
-- 🧑‍🔬 Dr. Jiahui Zhang – PI  
-- 👩‍💻 Alice Wang – PhD Student (spatial modeling)  
-- 👨‍💻 Ravi Kumar – Postdoc (machine learning)  
-- 🧠 Collaborators from [XYZ Institute](https://xyz.edu)
-
-📫 **Contact us**: yourlab@youruniversity.edu
-
-🌐 **Website**: [xyzlab.org](https://xyzlab.org)  
-🐦 **Twitter**: [@xyzlab](https://twitter.com/xyzlab)  
-🔗 **Lab Handbook**: [xyzlab.org/handbook](https://xyzlab.org/handbook)
 
 ---
 
 ## 🤝 Collaborate with Us
-
-We are open to collaborations in:
-- Spatial omics data analysis
-- High-performance computing pipelines
-- Method development and software engineering
-
 Feel free to open an [issue](https://github.com/your-org/welcome/issues) or reach out!
 
 ---
